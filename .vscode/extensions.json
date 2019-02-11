@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "shinnn.stylelint",
+    "sdras.vue-vscode-extensionpack",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
